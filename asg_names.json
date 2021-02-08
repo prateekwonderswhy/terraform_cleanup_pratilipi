@@ -1,0 +1,14 @@
+{
+  "asg_names": {
+    "sensitive": false,
+    "type": [
+      "list",
+      "string"
+    ],
+    "value": [
+      "batch-job-12",
+      "batch-job-23",
+      "sample-as"
+    ]
+  }
+}
