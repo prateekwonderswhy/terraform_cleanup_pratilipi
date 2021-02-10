@@ -21,7 +21,12 @@ for i in range(len(asg_names_list)):
 
 
 for i in range(len(batch_job_asg_list)):
-    response = client.delete_auto_scaling_group(
-    AutoScalingGroupName= batch_job_asg_list[i],
-    ForceDelete=True
-)
+    print(batch_job_asg_list[i])
+
+
+
+# for i in range(len(batch_job_asg_list)):
+#     response = client.delete_auto_scaling_group(
+#     AutoScalingGroupName= batch_job_asg_list[i],
+#     ForceDelete=True
+# )

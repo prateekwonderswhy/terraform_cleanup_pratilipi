@@ -6,8 +6,9 @@
       "string"
     ],
     "value": [
-      "batch-job-12",
-      "batch-job-23",
+      "batch-job-2",
+      "batch-job-asg-1",
+      "batch-job-asg-3",
       "sample-as"
     ]
   }
